@@ -165,7 +165,7 @@ body {
   }
 }
 
-.body:hover {
+.cover-container:hover {
  color:#555;
  background:#fff;
 }
