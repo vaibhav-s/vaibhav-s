@@ -28,6 +28,9 @@ html,
 body {
   height: 100%;
   background-color: #3b599b;
+ -webkit-transition-property: color, background; 
+ -webkit-transition-duration: 1s, 1s; 
+ -webkit-transition-timing-function: linear, ease-in;
 }
 body {
   color: #fff;
