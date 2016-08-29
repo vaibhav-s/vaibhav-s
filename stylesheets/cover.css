@@ -164,3 +164,8 @@ body {
     width: 700px;
   }
 }
+
+.body:hover {
+ color:#555;
+ background:#fff;
+}
